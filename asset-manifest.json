@@ -1,7 +1,7 @@
 {
-  "main.css": "/cnc-project-website/static/css/main.6de3e0b3.chunk.css",
-  "main.js": "/cnc-project-website/static/js/main.41234911.chunk.js",
-  "main.js.map": "/cnc-project-website/static/js/main.41234911.chunk.js.map",
+  "main.css": "/cnc-project-website/static/css/main.1ec20c5c.chunk.css",
+  "main.js": "/cnc-project-website/static/js/main.d14c17a1.chunk.js",
+  "main.js.map": "/cnc-project-website/static/js/main.d14c17a1.chunk.js.map",
   "static/js/1.8834cac5.chunk.js": "/cnc-project-website/static/js/1.8834cac5.chunk.js",
   "static/js/1.8834cac5.chunk.js.map": "/cnc-project-website/static/js/1.8834cac5.chunk.js.map",
   "runtime~main.js": "/cnc-project-website/static/js/runtime~main.84550bfd.js",
@@ -13,8 +13,8 @@
   "static/media/mechanical-header.jpg": "/cnc-project-website/static/media/mechanical-header.d5c7dd60.jpg",
   "static/media/eletronic-header.jpg": "/cnc-project-website/static/media/eletronic-header.79087fd2.jpg",
   "static/media/header.png": "/cnc-project-website/static/media/header.e9b51208.png",
-  "static/css/main.6de3e0b3.chunk.css.map": "/cnc-project-website/static/css/main.6de3e0b3.chunk.css.map",
+  "static/css/main.1ec20c5c.chunk.css.map": "/cnc-project-website/static/css/main.1ec20c5c.chunk.css.map",
   "index.html": "/cnc-project-website/index.html",
-  "precache-manifest.d4f41e25587abc36312381a054cc9ab5.js": "/cnc-project-website/precache-manifest.d4f41e25587abc36312381a054cc9ab5.js",
+  "precache-manifest.29105fbf37e9489ec2e952666cd7a3d4.js": "/cnc-project-website/precache-manifest.29105fbf37e9489ec2e952666cd7a3d4.js",
   "service-worker.js": "/cnc-project-website/service-worker.js"
 }
