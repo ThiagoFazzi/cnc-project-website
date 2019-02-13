@@ -1,5 +1,5 @@
 import React from 'react'
-import classes from './Eletronic.module.css'
+//import classes from './Eletronic.module.css'
 import Header from '../../Header/Header'
 import imageHeader from '../../../assets/images/eletronic-header.jpg' 
 

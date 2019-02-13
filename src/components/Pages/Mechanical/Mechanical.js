@@ -1,5 +1,5 @@
 import React from 'react'
-import classes from './Mechanical.module.css'
+//import classes from './Mechanical.module.css'
 import Header from '../../Header/Header'
 import imageHeader from '../../../assets/images/mechanical-header.jpg' 
 

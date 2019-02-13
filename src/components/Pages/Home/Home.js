@@ -4,10 +4,7 @@ import Header from '../../Header/Header'
 import imageHeader from '../../../assets/images/header.png'
 import Section from '../../UI/Section/Section'
 import imageOverview from '../../../assets/images/overview.png'
-
-
-
-import Title from '../../UI/Title/Title' 
+ 
 
 const overviewText = 'My technical skills include JavaScript, NodeJs, Typescript, HTML, CSS, React, Redux, Docker. Building state-of-the-art, easy to use, user-friendly websites and applications truly became a something that I love to do. In addition to my current knowledge, I actively seek out new technologies, being by myself or attending to meetups and conferences, to stay up-to-date on industry trends and advancements. '
 const whatIsCncText = 'My technical skills include JavaScript, NodeJs, Typescript, HTML, CSS, React, Redux, Docker. Building state-of-the-art, easy to use, user-friendly websites and applications truly became a something that I love to do. In addition to my current knowledge, I actively seek out new technologies, being by myself or attending to meetups and conferences, to stay up-to-date on industry trends and advancements. '

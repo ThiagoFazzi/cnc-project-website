@@ -1,5 +1,5 @@
 import React from 'react'
-import classes from './Project.module.css'
+//import classes from './Project.module.css'
 import Header from '../../Header/Header'
 import imageHeader from '../../../assets/images/project-header.jpg'
 
