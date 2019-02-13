@@ -1,0 +1,77 @@
+.NavigationItemsOn {
+  height: 100%;
+  right: 0;
+}
+
+.NavigationItemsOn ul{
+  height: 100%;
+  list-style-type: none;
+  align-items: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  display: flex;
+  flex-flow: row;
+}
+
+.NavigationItemsOn li {
+  height: 100%;
+  padding: 0px 10px;
+  font-size: 1.3em;
+  font-family: 'Russo One', sans-serif;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  border: 3px solid transparent;
+}
+
+.NavigationItemsOn a {
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
+}
+
+.NavigationItemsOn li:hover,
+.NavigationItemsOn li:active {
+  background-color: rgba(255,255,255,0.3);
+  border-bottom: 3px solid silver;
+  cursor: pointer;
+}
+
+.NavigationItemsOff {
+  height: 100%;
+  right: 0;
+}
+
+.NavigationItemsOff ul{
+  height: 100%;
+  list-style-type: none;
+  align-items: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  display: flex;
+  flex-flow: row;
+}
+
+.NavigationItemsOff li{
+  height: 100%;
+  padding: 0px 10px;
+  font-size: 1.3em;
+  font-family: 'Russo One', sans-serif;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  border: 3px solid transparent;
+}
+
+.NavigationItemsOff a {
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
+}
+
+.NavigationItemsOff li:hover,
+.NavigationItemsOff li:active {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-bottom: 3px solid orangered;
+  cursor: pointer;
+}

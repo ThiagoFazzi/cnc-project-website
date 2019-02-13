@@ -1,0 +1,12 @@
+.Content {
+  width: 70%;
+  margin: 0 auto;
+}
+
+@media (max-width: 500px){
+  .Content {
+    width: 95%;
+    margin: 0 auto;
+  } 
+}
+

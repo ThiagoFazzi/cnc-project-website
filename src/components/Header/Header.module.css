@@ -1,0 +1,83 @@
+.Header {
+  width: 100%;
+  height: 100vh;
+  top: 0;
+}
+
+.Image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  display: flex;
+  z-index: -1;
+}
+
+.Content {
+  width: 45vw;
+  height: 100vh;
+  top: 50px;
+  left: 0;
+  display: flex;
+  flex-flow: column;
+  background-color: transparent;
+}
+
+.Title {
+  margin: 120px 50px 50px 50px;
+  color: orange;
+  font-family: 'Russo One', sans-serif;
+  font-size: 3em;
+}
+
+.Text {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  margin: 0 auto;
+  color: white;
+  text-shadow: 0 0 7px black;
+  font-family: 'Francois One', sans-serif;
+  font-size: 3em;
+
+
+}
+
+@media (max-width: 500px) {
+  .Image {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    display: flex;
+    z-index: -1;
+  }
+
+  .Content {
+    width: 100vw;
+    height: 100vh;
+    top: 50px;
+    left: 0;
+    display: flex;
+    flex-flow: column;
+    background-color: transparent;
+  }
+  .Title {
+    width: 70%;
+    align-self: center;
+    color: orange;
+    font-family: 'Russo One', sans-serif;
+    font-size: 2.5em;
+    align-content: flex-start;
+  }
+
+  .Text {
+    width: 70%;
+    align-self: center;
+    margin: 0;
+    color: white;
+    text-shadow: 0 0 7px black;
+    font-family: 'Francois One', sans-serif;
+    font-size: 2.5em;
+  }
+}
