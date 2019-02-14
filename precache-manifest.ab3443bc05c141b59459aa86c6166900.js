@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/cnc-project-website/static/media/axis-z-part-project.277b8fc3.png"
   },
   {
-    "revision": "669e76e73c8ed55d5134",
+    "revision": "fbd600ce95ddea6b84c8",
     "url": "/cnc-project-website/static/css/main.da564344.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/cnc-project-website/static/media/overview.e48c03dc.png"
   },
   {
-    "revision": "669e76e73c8ed55d5134",
-    "url": "/cnc-project-website/static/js/main.669e76e7.chunk.js"
+    "revision": "fbd600ce95ddea6b84c8",
+    "url": "/cnc-project-website/static/js/main.fbd600ce.chunk.js"
   },
   {
     "revision": "e2d1a37697e5707e6a90e86802418045",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/cnc-project-website/static/media/eletronic-header.79087fd2.jpg"
   },
   {
-    "revision": "e5d9fd514cec90eea912cdfe43955126",
+    "revision": "db11fdad91d11f0dd748bc40a85d8407",
     "url": "/cnc-project-website/index.html"
   }
 ];
