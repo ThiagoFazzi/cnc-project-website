@@ -24,7 +24,7 @@
   font-weight: 800;
   color: white;
   font-style: italic;
-  transition: font-size 1s;
+  transition: font-size 800ms;
 }
 
 .LogoBig {
@@ -36,21 +36,21 @@
   font-weight: 800;
   color: white;
   font-style: italic;
-  transition: font-size 1s;
+  transition: font-size 800ms;
 }
 
 .ToobarOpen {
   height: 70px;
   background-color: rgba(0,0,0,0.3);
   color: black;
-  transition: height 1s, background-color 1s;  
+  transition: height 800ms, color 100ms, background-color 1s;  
 }
 
 .ToobarClose {
   height: 50px;
   background-color: rgba(0,0,0,1);
   color: orange;
-  transition: height 1s, background-color 1s; 
+  transition: height 800ms, color 100ms, background-color 1s; 
 }
 
 

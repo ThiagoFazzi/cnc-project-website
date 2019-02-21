@@ -1,0 +1,14 @@
+.VirtualMachine {
+  margin: 200px auto 0 auto;
+  display: flex;
+  align-self: center;
+  flex-flow: column;
+  align-items: center;
+}
+
+.Controls {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  z-index: 999;
+}

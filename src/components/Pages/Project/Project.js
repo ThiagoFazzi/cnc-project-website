@@ -1,18 +1,18 @@
 import React from 'react'
-//import classes from './Project.module.css'
+import classes from './Project.module.css'
 import Header from '../../Header/Header'
-import imageHeader from '../../../assets/images/project-header.jpg'
+import imageHeader from '../../../assets/images/project-header.png'
 
 const project = () => (
   <>
     <Header 
       image={imageHeader}
-      title="CNC Router Machine"
-      description="Take a look at this amazing project"/>
-    <div>Project</div>
-    <div>Project</div>
-    <div>Project</div>
-    <div>Project</div>
+      title="Let's starts"
+      description="Everything comes from a crazy idea"/>    
+    <div className={classes.Content}>
+      
+
+    </div>
   </>
 )
 

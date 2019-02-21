@@ -22,23 +22,27 @@
 .Right img {
   object-fit: contain;
   width: 100%;
+
 }
 
 .Left img {
   object-fit: contain;
   width: 100%;
+
 }
 
 .Center img {
   object-fit: contain;
   width: 30%;
   margin-top: 20px;
+
 }
 
 @media (max-width: 500px) {
 
   .Images {
     display: flex;
+    width: fit-content;
     flex-flow: column;
     align-items: center;
   }

@@ -23,8 +23,8 @@
 @media (max-width: 500px) {
   .Text {
     display: flex;
-    margin: 0 20px 20px 20px;
-    font-size: .9em;
+    margin: 0;
+    font-size: 1.11em;
     text-align: justify;
     font-family: 'Exo', sans-serif;
   }
