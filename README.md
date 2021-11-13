@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## CNC Router Machine Website
 
-[Take a look](https://thiagofazzi.github.io/cnc-project-website/){:target="_blank" rel="noopener"}
+<a href="https://thiagofazzi.github.io/cnc-project-website/" target="_blank">Take a Look</a>
 
 This project is using react-create-app v2 to create a componentized website to show
 the amazing project created by myself - CNC Router Machine
